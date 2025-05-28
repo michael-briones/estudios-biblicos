@@ -21,10 +21,15 @@
 
 # Capítulo 6
 
+<details>
+<summary>Ayudas Espirituales</summary>
+- Efesios 6.10: Por lo demás...
+</details>
+
 ## Ayudas espirituales
 
 <details>
-<sumary>Efesios 6.10-18</sumary>
+<summary>Efesios 6.10-18</summary>
 Por lo demás hermanos ...
 </details>
 
