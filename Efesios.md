@@ -112,7 +112,7 @@ Una breve introducción donde se presente el tema y los sub temas junto con la c
   <sup>10</sup> Por lo demás, hermanos míos,
   
   <a name="fortaleceos-g1743"></a>
-  - [fortaleceos](#g1743)
+  - [fortaleceos](#g1743 "G1743")
     - en el Señor,
     - y en el poder de su fuerza.
   - <sup>11</sup> Vestíos de toda la armadura de Dios,
@@ -166,7 +166,7 @@ Una breve introducción donde se presente el tema y los sub temas junto con la c
 
 #### G1743
  
-| Pfj | [fortaleceos](#fortaleceos-g1743)                                                                 |
+| Pfj | [fortaleceos](#fortaleceos-g1743 "Efesios 6.10") |
 | --- | :--- |
 | <kbd>PO</kbd> | This text is on one line dddd fdfd |
 | <kbd>DS</kbd> | This text is on one line |
