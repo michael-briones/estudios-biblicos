@@ -106,12 +106,12 @@ Una breve introducción donde se presente el tema y los sub temas junto con la c
 ### Desarrollo:
 [Tabla de Contenido](#tabla-de-contenido)
 <!--Estructura Gramatical-->
-<a name="10g1743"></a>
 <details>
   <summary>Estructura Gramatical</summary> <br />
   
   <sup>10</sup> Por lo demás, hermanos míos,
   
+  <a name="10g1743"></a>
   - [fortaleceos](#g1743)
     - en el Señor,
     - y en el poder de su fuerza.
