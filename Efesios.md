@@ -9,6 +9,9 @@
 - [Cap. 6](#capítulo-6): [](#)
 - [Estudio de Palabras](#estudio-de-palabras)
 
+Tema
+: descripción 
+
 # Capítulo 1
 [Tabla de Contenido](#tabla-de-contenido)
 
