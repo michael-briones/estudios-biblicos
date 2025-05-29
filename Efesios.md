@@ -30,7 +30,7 @@
 ## AYUDAS ESPIRITUALES
 [Tabla de Contenido](#tabla-de-contenido)
 <!--Texto de Estudio-->
-### Efesios 6.10-18
+### **Efesios 6.10-18**
 <details>
   <summary>v10</summary>
   RV60: Por lo demás, hermanos míos, fortaleceos en el Señor, y en el poder de su fuerza. <br /> 
@@ -103,27 +103,39 @@ Una breve introducción donde se presente el tema y los sub temas junto con la c
 ### Desarrollo:
 [Tabla de Contenido](#tabla-de-contenido)
 <!--Estructura Gramatical-->
-<details>
+<details open>
   <summary>Estructura Gramatical</summary>
-  10 Por lo demás, hermanos míos,* <br />
-  &nbsp;&nbsp;&nbsp;&nbsp;fortaleceos en el Señor, <br />
-  &nbsp;&nbsp;&nbsp;&nbsp;y en el poder de su fuerza. <br />
-  11 Vestíos de toda la armadura de Dios, para que podáis estar firmes contra las asechanzas del diablo. 12 Porque no tenemos lucha contra sangre y carne, sino contra principados, contra potestades, contra los gobernadores de las tinieblas de este siglo, contra huestes espirituales de maldad en las regiones celestes. 13 Por tanto, tomad toda la armadura de Dios, para que podáis resistir en el día malo, y habiendo acabado todo, estar firmes. 14 Estad, pues, firmes, ceñidos vuestros lomos con la verdad, y vestidos con la coraza de justicia, 15 y calzados los pies con el apresto del evangelio de la paz. 16 Sobre todo, tomad el escudo de la fe, con que podáis apagar todos los dardos de fuego del maligno. 17 Y tomad el yelmo de la salvación, y la espada del Espíritu, que es la palabra de Dios; 18 orando en todo tiempo con toda oración y súplica en el Espíritu, y velando en ello con toda perseverancia y súplica por todos los santos;
+  
+  <sup>10</sup> Por lo demás, hermanos míos, <br />
+  - fortaleceos
+    - en el Señor, <br />
+    - y en el poder de su fuerza. <br />
+  - <sup>11</sup> Vestíos de toda la armadura de Dios,
+    - para que podáis estar firmes contra las asechanzas del diablo.
+    - <sup>12</sup> Porque no tenemos lucha contra sangre y carne,
+    - sino contra principados, contra potestades, contra los gobernadores de las tinieblas de este siglo, contra huestes espirituales de maldad en las regiones celestes. 
+  - <sup>13</sup> Por tanto, tomad toda la armadura de Dios,
+    - para que podáis <u>resistir</u> en el día malo,
+      - y habiendo acabado todo, estar firmes. 
+  <sup>14</sup> Estad, pues, firmes, ceñidos vuestros lomos con la verdad, y vestidos con la coraza de justicia, <sup>15</sup> y calzados los pies con el apresto del evangelio de la paz. <sup>16</sup> Sobre todo, tomad el escudo de la fe, con que podáis apagar todos los dardos de fuego del maligno. <sup>17</sup> Y tomad el yelmo de la salvación, y la espada del Espíritu, que es la palabra de Dios; <sup>18</sup> orando en todo tiempo con toda oración y súplica en el Espíritu, y velando en ello con toda perseverancia y súplica por todos los santos;
 </details>  
 
 <!--Sub Temas-->
 <details>
   <summary>I. Un enemigo invisible</summary>
+  
   Desarrollo del sub tema I.
 </details>  
 
 <details>
   <summary>II. Partes de toda la armadura</summary>  
+  
   Desarrollo del sub tema II.
 </details>  
 
 <details>
   <summary>III. Toda armadura se refuerza con la oración</summary>
+  
   Desarrollo del sub tema III.
 </details>  
 
