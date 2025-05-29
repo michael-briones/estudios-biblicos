@@ -28,20 +28,81 @@
 [Tabla de Contenido](#tabla-de-contenido)
 
 ## Ayudas espirituales
-**Efesios 6.10-18**
-<!--RV60-->
-<details>
-<summary>RV60<summary>
-10 Por lo demás, hermanos míos, fortaleceos en el Señor, y en el poder de su fuerza. 11 Vestíos de toda la armadura de Dios, para que podáis estar firmes contra las asechanzas del diablo. 12 Porque no tenemos lucha contra sangre y carne, sino contra principados, contra potestades, contra los gobernadores de las tinieblas de este siglo, contra huestes espirituales de maldad en las regiones celestes. 13 Por tanto, tomad toda la armadura de Dios, para que podáis resistir en el día malo, y habiendo acabado todo, estar firmes. 14 Estad, pues, firmes, ceñidos vuestros lomos con la verdad, y vestidos con la coraza de justicia, 15 y calzados los pies con el apresto del evangelio de la paz. 16 Sobre todo, tomad el escudo de la fe, con que podáis apagar todos los dardos de fuego del maligno. 17 Y tomad el yelmo de la salvación, y la espada del Espíritu, que es la palabra de Dios; 18 orando en todo tiempo con toda oración y súplica en el Espíritu, y velando en ello con toda perseverancia y súplica por todos los santos;
-</details>
-<!--NVI-->
-<details>
-<summary>NVI<summary>
-10 Por último, fortalézcanse con el gran poder del Señor. 11 Pónganse toda la armadura de Dios para que puedan hacer frente a las artimañas del diablo. 12 Porque nuestra lucha no es contra seres humanos, sino contra poderes, contra autoridades, contra potestades que dominan este mundo de tinieblas, contra fuerzas espirituales malignas en las regiones celestiales. 13 Por lo tanto, pónganse toda la armadura de Dios, para que cuando llegue el día malo puedan resistir hasta el fin con firmeza. 14 Manténganse firmes, ceñidos con el cinturón de la verdad, protegidos por la coraza de justicia 15 y calzados con la disposición de proclamar el evangelio de la paz. 16 Además de todo esto, tomen el escudo de la fe, con el cual pueden apagar todas las flechas encendidas del maligno. 17 Tomen el casco de la salvación y la espada del Espíritu, que es la palabra de Dios.
+**Efesios 6.10-18** <br /> 
+Introducción en alución al tema ...
 
-18 Oren en el Espíritu en todo momento, con peticiones y ruegos. Manténganse alertas y perseveren en oración por todos los creyentes.
+<details>
+  <summary>v10</summary>
+  RV60: Por lo demás, hermanos míos, fortaleceos en el Señor, y en el poder de su fuerza. <br /> 
+  NVI: <br />
+  IG: 
 </details>
 
+<details>
+  <summary>v11</summary>  
+  RV60: Vestíos de toda la armadura de Dios, para que podáis estar firmes contra las asechanzas del diablo. <br /> 
+  NVI: <br /> 
+  IG: 
+</details>
+
+<details>
+  <summary>v12</summary>
+  RV60: Porque no tenemos lucha contra sangre y carne, sino contra principados, contra potestades, contra los gobernadores de las tinieblas de este siglo, contra huestes espirituales de maldad en las regiones celestes. <br />   
+  NVI: <br />  
+  IG: 
+</details>
+
+<details>
+  <summary>v13</summary>
+  RV60: Por tanto, tomad toda la armadura de Dios, para que podáis resistir en el día malo, y habiendo acabado todo, estar firmes. <br />   
+  NVI: <br />  
+  IG: 
+</details>
+
+<details>
+  <summary>v14</summary>
+  RV60: Estad, pues, firmes, ceñidos vuestros lomos con la verdad, y vestidos con la coraza de justicia, <br />   
+  NVI: <br />  
+  IG: 
+</details>
+
+<details>
+  <summary>v15</summary>
+  RV60: y calzados los pies con el apresto del evangelio de la paz. <br /> 
+  NVI: <br />  
+  IG: 
+</details>
+
+<details>
+  <summary>v16</summary>
+  RV60: Sobre todo, tomad el escudo de la fe, con que podáis apagar todos los dardos de fuego del maligno. <br /> 
+  NVI: <br />  
+  IG: 
+</details>
+
+<details>
+  <summary>v17</summary>
+  RV60: Y tomad el yelmo de la salvación, y la espada del Espíritu, que es la palabra de Dios; <br /> 
+  NVI: <br />  
+  IG: 
+</details>
+
+<details>
+  <summary>v18</summary>
+  RV60: orando en todo tiempo con toda oración y súplica en el Espíritu, y velando en ello con toda perseverancia y súplica por todos los santos; <br /> 
+  NVI: <br />  
+  IG: 
+</details>
+ 
+<!--Análisis Gramatical-->
+<details open>
+<summary>Análisis Gramatical</summary>
+  *ddddd*
+*10 Por lo demás, hermanos míos,* <br />
+&nbsp;&nbsp;&nbsp;&nbsp;fortaleceos en el Señor, <br />
+&nbsp;&nbsp;&nbsp;&nbsp;y en el poder de su fuerza. <br />
+11 Vestíos de toda la armadura de Dios, para que podáis estar firmes contra las asechanzas del diablo. 12 Porque no tenemos lucha contra sangre y carne, sino contra principados, contra potestades, contra los gobernadores de las tinieblas de este siglo, contra huestes espirituales de maldad en las regiones celestes. 13 Por tanto, tomad toda la armadura de Dios, para que podáis resistir en el día malo, y habiendo acabado todo, estar firmes. 14 Estad, pues, firmes, ceñidos vuestros lomos con la verdad, y vestidos con la coraza de justicia, 15 y calzados los pies con el apresto del evangelio de la paz. 16 Sobre todo, tomad el escudo de la fe, con que podáis apagar todos los dardos de fuego del maligno. 17 Y tomad el yelmo de la salvación, y la espada del Espíritu, que es la palabra de Dios; 18 orando en todo tiempo con toda oración y súplica en el Espíritu, y velando en ello con toda perseverancia y súplica por todos los santos;*
+</details>  
 
 ### Sub tema 1
 
