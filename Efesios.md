@@ -2,7 +2,7 @@
 
 
 
-# TABLA DE CONTENIDO
+# Indice
 - [Cap. 1](#capítulo-1): [Ayudas Espirituales](#ayudas-espirituales)
 - [Cap. 2](#capítulo-2): [](#)
 - [Cap. 3](#capítulo-3): [](#)
@@ -12,25 +12,25 @@
 - [Estudio de Palabras](#estudio-de-palabras)
 
 # Capítulo 1
-[Tabla de Contenido](#tabla-de-contenido)
+↩️ [Indice](#indice)
 
 # Capítulo 2
-[Tabla de Contenido](#tabla-de-contenido)
+↩️ [Indice](#indice)
 
 # Capítulo 3
-[Tabla de Contenido](#tabla-de-contenido)
+↩️ [Indice](#indice)
 
 # Capítulo 4
-[Tabla de Contenido](#tabla-de-contenido)
+↩️ [Indice](#indice)
 
 # Capítulo 5  
-[Tabla de Contenido](#tabla-de-contenido)
+↩️ [Indice](#indice)
 
 # Capítulo 6
-[Tabla de Contenido](#tabla-de-contenido)
+↩️ [Indice](#indice)
 
 ## AYUDAS ESPIRITUALES
-[Tabla de Contenido](#tabla-de-contenido)
+↩️ [Indice](#indice)
 <!--Texto de Estudio-->
 ### **Efesios 6.10-18**
 <details>
@@ -98,13 +98,13 @@
 
 <!--Introducción-->
 ### Introducción:
-[Tabla de Contenido](#tabla-de-contenido)
+↩️ [Indice](#indice)
 
 Una breve introducción donde se presente el tema y los sub temas junto con la conclusión ...
 
 <!--Desarrollo-->
 ### Desarrollo:
-[Tabla de Contenido](#tabla-de-contenido)
+↩️ [Indice](#indice)
 <!--Estructura Gramatical-->
 <details>
   <summary>Estructura Gramatical</summary> <br />
@@ -153,14 +153,24 @@ Una breve introducción donde se presente el tema y los sub temas junto con la c
 </details>  
 
 ### Conclusiones:
-[Tabla de Contenido](#tabla-de-contenido)
+↩️ [Indice](#indice)
 
 ### Estudio de palabras:
-[Tabla de Contenido](#tabla-de-contenido)
+↩️ [Indice](#indice)
+
+<kbd>PO</kbd>: Palabra Original <br />
+<kbd>DS</kbd>: Definición Strong <br />
+<kbd>OT</kbd>: Otras traducciones de esta palabra <br />
+<kbd>DV</kbd>: Definición de Vine <br />
+<kbd>NT</kbd>: Notas <br />
 
 #### G1743
-| Name  | Details                                                                |
-| ----- | ---------------------------------------------------------------------- |
-| [fortaleceos](#fortaleceos-g1743) | This text is on one line                                               |
-| Item2 | This item has:<br>- Multiple items<br>- That we want listed separately |
+ 
+| Pfj | [fortaleceos](#fortaleceos-g1743)                                                                 |
+| --- | :--- |
+| <kbd>PO</kbd> | This text is on one line dddd fdfd |
+| <kbd>DS</kbd> | This text is on one line |
+| <kbd>OT</kbd> | This text is on one line |
+| <kbd>DV</kbd> | This text is on one line |
+| <kbd>NT</kbd> | This text is on one line |
 
