@@ -106,7 +106,8 @@ Una breve introducción donde se presente el tema y los sub temas junto con la c
 ### Desarrollo:
 [Tabla de Contenido](#tabla-de-contenido)
 <!--Estructura Gramatical-->
-<details open>
+<a name="10g1743"></a>
+<details>
   <summary>Estructura Gramatical</summary> <br />
   
   <sup>10</sup> Por lo demás, hermanos míos,
@@ -158,6 +159,10 @@ Una breve introducción donde se presente el tema y los sub temas junto con la c
 [Tabla de Contenido](#tabla-de-contenido)
 
 #### G1743
+[Estructura Gramatical](#desarrollo)
+
+[fortaleceos](#10g1743)
+
 | Name  | Details                                                                |
 | ----- | ---------------------------------------------------------------------- |
 | Item1 | This text is on one line                                               |
