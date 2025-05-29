@@ -111,7 +111,7 @@ Una breve introducción donde se presente el tema y los sub temas junto con la c
   
   <sup>10</sup> Por lo demás, hermanos míos,
   
-  <a name="10g1743"></a>
+  <a name="fortaleceos-g1743"></a>
   - [fortaleceos](#g1743)
     - en el Señor,
     - y en el poder de su fuerza.
@@ -159,12 +159,8 @@ Una breve introducción donde se presente el tema y los sub temas junto con la c
 [Tabla de Contenido](#tabla-de-contenido)
 
 #### G1743
-[Estructura Gramatical](#desarrollo)
-
-[fortaleceos](#10g1743)
-
 | Name  | Details                                                                |
 | ----- | ---------------------------------------------------------------------- |
-| Item1 | This text is on one line                                               |
+| [fortaleceos](#fortaleceos-g1743) | This text is on one line                                               |
 | Item2 | This item has:<br>- Multiple items<br>- That we want listed separately |
 
