@@ -3,12 +3,12 @@
 
 
 # Indice
-- [Cap. 1](#capítulo-1): [Ayudas Espirituales](#ayudas-espirituales)
+- [Cap. 1](#capítulo-1): [](#)
 - [Cap. 2](#capítulo-2): [](#)
 - [Cap. 3](#capítulo-3): [](#)
 - [Cap. 4](#capítulo-4): [](#)
 - [Cap. 5](#capítulo-5): [](#)
-- [Cap. 6](#capítulo-6): [](#)
+- [Cap. 6](#capítulo-6): [Ayudas Espirituales](#ayudas-espirituales)
 - [Estudio de Palabras](#estudio-de-palabras)
 
 # Capítulo 1
